@@ -4,7 +4,7 @@
 #The program is separated into 4 files for organizational purposes. 
 
 #Main serves as the entry point to the system. It is responsible for the execution of the
-#sumulation by creating instances of the Synchronization, MemoryManager, and Processor
+#simulation by creating instances of the Synchronization, MemoryManager, and Processor
 #classes. 
 
 
